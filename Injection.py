@@ -2,7 +2,7 @@ import os
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
-from langchain_community.document_loaders import TextLoader, PDFMinerLoader, UnstructuredFileLoader
+from langchain_community.document_loaders import PyPDFLoader, PDFMinerLoader, UnstructuredFileLoader
 from langchain_community.document_loaders import DirectoryLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_huggingface import HuggingFaceEmbeddings
@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-loader = PDFMinerLoader("laws/Laws Of cricket.pdf")
+loader = PyPDFLoader("laws/Laws Of cricket.pdf")
 documents = loader.load()
 
 print(documents)
@@ -37,7 +37,7 @@ for i, doc in enumerate(directory):
     print("\n")
 """
 
-def split_documents(documents, chunk_size=2500, chunk_overlap=0):
+def split_documents(documents, chunk_size=1000, chunk_overlap=0):
     text_splitter = RecursiveCharacterTextSplitter(
         chunk_size=chunk_size,
         chunk_overlap=chunk_overlap
