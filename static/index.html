@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>CricketLaw Assistant</title>
+
+    <link
+        rel="preconnect"
+        href="https://fonts.googleapis.com"
+    >
+
+    <link
+        rel="preconnect"
+        href="https://fonts.gstatic.com"
+        crossorigin
+    >
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet"
+    >
+
+    <link
+        rel="stylesheet"
+        href="../static/style.css"
+    >
+</head>
+
+<body>
+
+    <div class="app">
+
+        <!-- NAVBAR -->
+
+        <nav class="navbar">
+
+            <div class="brand">
+
+                <div class="brand-icon">
+                    🏏
+                </div>
+
+                <div>
+                    <div class="brand-name">
+                        CricketLaw
+                    </div>
+
+                    <div class="brand-subtitle">
+                        MCC Laws Assistant
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div class="nav-right">
+
+                <span class="status-dot"></span>
+
+                <span>
+                    AI Assistant
+                </span>
+
+            </div>
+
+        </nav>
+
+
+        <!-- HERO -->
+
+        <section class="hero">
+
+            <div class="hero-badge">
+                <span>✦</span>
+                Powered by RAG
+            </div>
+
+
+            <h1>
+                Understand the
+                <span>Laws of Cricket.</span>
+            </h1>
+
+
+            <p>
+                Ask questions about the MCC Laws of Cricket
+                and get answers grounded in your cricket law
+                documents.
+            </p>
+
+        </section>
+
+
+        <!-- QUESTION BOX -->
+
+        <section class="search-section">
+
+            <div class="search-card">
+
+                <div class="search-label">
+                    ASK A QUESTION
+                </div>
+
+
+                <textarea
+                    id="question"
+                    rows="3"
+                    placeholder="e.g. What is Law 40?"
+                ></textarea>
+
+
+                <div class="search-footer">
+
+                    <div class="hint">
+                        Press Enter to ask
+                    </div>
+
+
+                    <button
+                        id="askButton"
+                        class="ask-button"
+                    >
+                        Ask Question
+                        <span>→</span>
+                    </button>
+
+                </div>
+
+            </div>
+
+
+            <!-- SUGGESTIONS -->
+
+            <div class="suggestions">
+
+                <span>Try asking:</span>
+
+                <button class="suggestion">
+                    What is Law 40?
+                </button>
+
+                <button class="suggestion">
+                    What is a no-ball?
+                </button>
+
+                <button class="suggestion">
+                    What is LBW?
+                </button>
+
+                <button class="suggestion">
+                    How can a batter be dismissed?
+                </button>
+
+            </div>
+
+        </section>
+
+
+        <!-- LOADING -->
+
+        <div
+            id="loading"
+            class="loading hidden"
+        >
+
+            <div class="loading-animation">
+
+                <span></span>
+                <span></span>
+                <span></span>
+
+            </div>
+
+            <span>
+                Searching the MCC Laws...
+            </span>
+
+        </div>
+
+
+        <!-- ANSWER -->
+
+        <section
+            id="answerSection"
+            class="result-section hidden"
+        >
+
+            <div class="section-heading">
+
+                <div>
+
+                    <span class="eyebrow">
+                        RESPONSE
+                    </span>
+
+                    <h2>
+                        CricketLaw Answer
+                    </h2>
+
+                </div>
+
+            </div>
+
+
+            <div class="answer-card">
+
+                <div class="answer-icon">
+                    🏏
+                </div>
+
+                <div
+                    id="answer"
+                    class="answer-text"
+                ></div>
+
+            </div>
+
+        </section>
+
+
+        <!-- SOURCES -->
+
+        <section
+            id="sourcesSection"
+            class="result-section hidden"
+        >
+
+            <div class="section-heading">
+
+                <div>
+
+                    <span class="eyebrow">
+                        RETRIEVED CONTEXT
+                    </span>
+
+                    <h2>
+                        Sources
+                    </h2>
+
+                </div>
+
+            </div>
+
+
+            <div id="sources" class="sources-grid"></div>
+
+        </section>
+
+
+        <!-- DISCLAIMER -->
+
+        <footer class="disclaimer">
+
+            <span class="disclaimer-icon">
+                ⚠
+            </span>
+
+            <div>
+
+                <strong>
+                    Important
+                </strong>
+
+                <p>
+                    CricketLaw Assistant provides information
+                    based on the provided MCC Laws of Cricket
+                    document for educational and informational
+                    purposes. Refer to the official Laws of
+                    Cricket and applicable competition
+                    regulations for authoritative decisions.
+                </p>
+
+            </div>
+
+        </footer>
+
+
+        <footer class="footer">
+
+            <span>
+                CricketLaw Assistant
+            </span>
+
+            <span>
+                Built with FastAPI · LangChain · ChromaDB · Gemini
+            </span>
+
+        </footer>
+
+    </div>
+
+
+    <script src="../static/script.js"></script>
+
+</body>
+
+</html>
