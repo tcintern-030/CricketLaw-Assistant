@@ -46,14 +46,14 @@ def split_documents(documents, chunk_size=1000, chunk_overlap=0):
 
 chunks = split_documents(documents)
 
-
+"""
 print("\n\nChunks:")
 
 for i, chunk in enumerate(chunks):
     print(f"Chunk {i+1}:")
     print(chunk)
     print("\n")
-
+"""
 
 def create_embeddings():
     embeddings = HuggingFaceEmbeddings(
