@@ -1,0 +1,320 @@
+[
+  {
+    "id": 1,
+    "type": "direct",
+    "question": "How many players are there in each side in a cricket match under the Laws?",
+    "expected_answer": "A match is played between two sides, each of eleven players, one of whom is the captain. By agreement, fewer or more than eleven players may be nominated, but no more than eleven may field at any time.",
+    "key_facts": [
+      "Each side has eleven players",
+      "One player is captain",
+      "No more than eleven may field at one time"
+    ],
+    "generated_answer": [
+      {
+        "type": "text",
+        "text": "Based on the provided context (LAW 1.1 Number of players):\n\n* A match is played between two sides, **each of eleven players** (one of whom shall be captain). \n* By agreement, a match may be played between sides of **fewer than, or more than, eleven players**, though no more than eleven players may field at any time.",
+        "extras": {
+          "signature": "EpgLCpULARFNMg9TDDkcgIL96z69xMcr8Ot8lyHZb4JnJBff+XY+lMP24D5dqjSY2rz9TZsiUywPycBUT1jfrNejT6VsK7scv9SEXxGNmYV9/1yhHRkkm0ObQoKMc1J7lxkEfma3kucCzQo5L2vSJN/oyz+Bbn3JjNrJpQ31p778HL4NVqgW8n6WE2vMk5riguJhwbQrVJ/j+yBwcfuxRDUD6BQirH+C063a0M3bov/tEUlSjQpsR63O+2NysYZ0iLTNFz47juXeTapKPgcJqCf/WTQOVmwFDZZ81Pf77JUM9xVgtm/MU3I3Tk/zWeb0Yn73kRM1JaS2LgKzh7N1V+Axz6ALaQPoGlWpPJXqENee1E4NRd6W94rilnqVLsrcA9iOgGiCkollh8/nkuMRAdrD/+9XJd/706xzSRW3SM1O8Eb5OwsZ05qrLcz2PyngM0vHb+obFyzIV3WyR/afoVe2YrLldOOxTGSxHhhWYsfiLlSWH+Pip18Btt2/DMT1KD6visASyNuIhfOpa6FlqhgxehowsrSEZUklspg8d92Oe225ejggQfAeu95ohX66h2pV2sxqua44xRjV6Dn/jcjMpl9WSTSJ3XkG5+9wSJ+GBqV4FytVAG894zqwZrzFj/In44MohGtxs4Gnk1EWtJhmTjYe2Ev4bu3ZDDKngH+ZsVXbslgxWSxfhYWmYNcSCGoTjJMJNm8sCKH3kf9EY8ylcPXzHYXIO9J9sGsR7FOp0Q3AsCGWiaoAKKfb5RR3GMARqwSQzQIYqi5f/jdXXuyIbshrBptzuWH+XqflhueEjrzxwbkSEtiEx9XV6is5E8bejhsYnsYRvdEjUay2a83YD3Y8phKDXeIcD7TNNgvmRtshc4EeE+RNEXKpJCMfhN49N9kKloLcsxAdl9HVqRhMLb3HBuVAS4tyC5Meh+XxPPAjYO42HhdoWzEDe/FdVg+ZWqUDVI0x1twSWm/2uuUYaUh4436SY+K1lPg8eEXXmjqbLXP3Am+23z46HuS8MOo6M4Ub46vtOkxyzH1YJcCYBfe7j5/8YENtynbeUfX1kH0IeWS6mPBrS5m/hqc2MDkhpjR8OzNx3ylzsRmVfZZpfFZF8nqm7hIKHVwDflU0kalb2hREdC9/8hAVCRCGDgHAzMfsTiFBqIvGYJKotFumeNqLLOTu9hSItKZ+H4m0lpUKfLu3xLfwcQV57fNlFXd2IMXyFZPuUjsZIHvVXCzox/5uvUoCQxcb4BlEDIkSqSy5k6W2txPNDfYszu84jXywHEOaU+xzS6rpxPceV+O6HzpQvXrJJN8UYofrsAyXVQz03CSP1zwVIK7mlvMG1490HrYOhhhO0bqhayy/6ohydNBAnxWeFIYaTB5jPOK66d6CLvyu4lZJEveY/xoj0juBgRvGL/cP59XcoGkkFMwYqjXsy1CGjpycl9p+mvzF3597kSp28OePo5VyyE49y/XhPSYqs5cPdWUQUm6jzG1MNiYzhQUUJF2GpVXH91AHev1NNv3G7bXXTiuaGmdGd/5LBWSC+ESRXdlcuFdQBWB23XySCvLyb3/ODPVU0cjYTLTSrBtQCxV7VqY5XFlPZYUbFVXPotzxXxCNmH0fLhUc0UkB8jL0gRHMVwJN7XuuF2SIChYWyTiFB0RyMLnIHFz5lC8LxgIqbqvJBwEN2tBT/0NN0lDyKb+TqtMR4b2vbx0mYpW8n6yKh5cZlBLsaK+JWzybyp1dMNFH9xcyzdy2LLHRLOFlmNqoDTdrkZd2RjdMh0XE+8Dop0iPcbDb/WrjAMVYVl+c2KswltUHzosv0EC8c5k/lSHrdqBg9qiKjUzOpFkHe9lSe+Ebt2vaPtxhQlos/33y+p3/mwdd5iBfQ0oFrXgBbDwdKeyIiZcsBKWIRA11MxvkVQ=="
+        }
+      }
+    ],
+    "retrieved_context": [
+      {
+        "content": "and teamwork, which brings together people from different \nnationalities, cultures and religions, especially when played within \nthe Spirit of Cricket.\nThe players, umpires and scorers in a game of cricket may be of \nany gender, and the Laws apply equally. Except where specifically \nstated otherwise, every provision of the Laws is to be read as \napplying to all persons, regardless of gender.\nLAW 1 THE PLAYERS\n1.1  Number of players\nA match is played between two sides, each of eleven players, \none of whom shall be captain.\nBy agreement a match may be played between sides of \nfewer than, or more than, eleven players, but not more than \neleven players may field at any time.\nIf, during the match and for whatever reason, a side is \nreduced to fewer than the original number of nominated \nplayers, the match shall continue as long as it is possible to do \nso under the Laws or any agreements made before the toss.\n1.2  Nomination and replacement of players",
+        "metadata": {
+          "moddate": "2026-02-03T09:04:05+00:00",
+          "page_label": "5",
+          "producer": "Adobe PDF Library 18.0",
+          "creator": "Adobe InDesign 21.0 (Macintosh)",
+          "page": 4,
+          "creationdate": "2026-02-03T09:04:03+00:00",
+          "total_pages": 90,
+          "trapped": "/False",
+          "source": "laws/Laws Of cricket.pdf"
+        }
+      },
+      {
+        "content": "LAW 37 Obstructing the field 110\nLAW 38 Run out 112\nLAW 39 Stumped 116\nLAW 40 Timed out 117\nLAW 41 Unfair play 118\nLAW 42 Players’ conduct 138\nAPPENDIX A 148  \nDefinitions and explanations  \nof words and phrases not defined  \nin the text\nAPPENDIX B 158  \nLaw 5 (The bat)\nAPPENDIX C 164  \nLaws 6 (The pitch) \nand 7 (The creases)\nAPPENDIX D 165  \nLaw 8 (The wickets)\nAPPENDIX E 166  \nWicket-keeping gloves",
+        "metadata": {
+          "trapped": "/False",
+          "moddate": "2026-02-03T09:04:05+00:00",
+          "producer": "Adobe PDF Library 18.0",
+          "page_label": "4",
+          "creator": "Adobe InDesign 21.0 (Macintosh)",
+          "creationdate": "2026-02-03T09:04:03+00:00",
+          "total_pages": 90,
+          "source": "laws/Laws Of cricket.pdf",
+          "page": 3
+        }
+      },
+      {
+        "content": "6 7\nCONTENTS THE PREAMBLE 8 \n The Spirit of Cricket\nLAW 1 The players 9\nLAW 2 The umpires 10\nLAW 3 The scorers 18\nLAW 4 The ball 18\nLAW 5 The bat 20\nLAW 6 The pitch 24\nLAW 7 The creases 25\nLAW 8 The wickets 26\nLAW 9  Preparation and 27  \nmaintenance of  \nthe playing area\nLAW 10 Covering the pitch 31\nLAW 11 Intervals 32\nLAW 12  Start of play; 37  \ncessation of play\nLAW 13 Innings 42\nLAW 14 The follow-on 44\nLAW 15 Declaration and forfeiture 45\nLAW 16 The result 45\nLAW 17 The over 49\nLAW 18 Scoring runs 52\nLAW 19 Boundaries 59\nLAW 20 Dead ball 64\nLAW 21 No ball 69\nLAW 22 Wide ball 75\nLAW 23 Bye and Leg bye 77\nLAW 24  Fielder’s absence; 79   \nsubstitutes\nLAW 25 Batter’s innings; runners 83\nLAW 26 Practice on the field 88\nLAW 27 The wicket-keeper 90\nLAW 28 The fielder 93\nLAW 29 The wicket is broken 97\nLAW 30  Batter out of 99  \ntheir ground\nLAW 31 Appeals 100\nLAW 32 Bowled 103\nLAW 33 Caught 103\nLAW 34 Hit the ball twice 105\nLAW 35 Hit wicket 107\nLAW 36 Leg before wicket 109",
+        "metadata": {
+          "moddate": "2026-02-03T09:04:05+00:00",
+          "creationdate": "2026-02-03T09:04:03+00:00",
+          "creator": "Adobe InDesign 21.0 (Macintosh)",
+          "source": "laws/Laws Of cricket.pdf",
+          "trapped": "/False",
+          "page": 3,
+          "page_label": "4",
+          "total_pages": 90,
+          "producer": "Adobe PDF Library 18.0"
+        }
+      },
+      {
+        "content": "152 153\nboth umpires. An umpire and umpires are generalised \nterms. Otherwise, a fuller description indicates which \none of the umpires is specifically intended. Each umpire \nwill be bowler’s end umpire and striker’s end umpire in \nalternate overs.\nA.5.2  Bowler’s end umpire is the umpire who is standing at \nthe bowler’s end (see A.4.4) for the current delivery.\nA.5.3  Striker’s end umpire is the umpire who is standing \nat the striker’s end (see A.4.3), to one side of the pitch \nor the other, depending on that umpire’s choice, for the \ncurrent delivery.\nA.5.4  Umpires together agree applies to decisions which \nthe umpires are to make jointly, independently of \nthe players.\nA.6  Batters\nA.6.1  Batting side is the side currently batting, whether or not \nplay is in progress.\nA.6.2  Member of the batting side is one of the players \nnominated by the captain of the batting side, or any \nauthorised replacement for such nominated player.",
+        "metadata": {
+          "producer": "Adobe PDF Library 18.0",
+          "creationdate": "2026-02-03T09:04:03+00:00",
+          "trapped": "/False",
+          "moddate": "2026-02-03T09:04:05+00:00",
+          "source": "laws/Laws Of cricket.pdf",
+          "creator": "Adobe InDesign 21.0 (Macintosh)",
+          "total_pages": 90,
+          "page": 76,
+          "page_label": "77"
+        }
+      },
+      {
+        "content": "172 173\nLAW 24  FIELDER’S ABSENCE;  \nSUBSTITUTES\n24.1  Substitute fielders 79\n24.2  Fielder absent or leaving 79  \nthe field of play\n24.3  Penalty time not incurred 82\n24.4  Player returning without 82 \npermission\nLAW 25  BATTER’S INNINGS; RUNNERS\n25.1  Eligibility to act as a 83  \nbatter or runner\n25.2  Commencement of 83 \na batter’s innings\n25.3  Restriction on batter 83  \ncommencing an innings \n25.4  Batter retiring 84\n25.5  Runners 84\n25.6  Dismissal and conduct of 85 \na batter and their runner\n25.7  Restriction on the 86 \nstriker’s runner\n25.8  Striker’s right to play the ball 87\nLAW 26  PRACTICE ON THE FIELD\n26.1  Practice on the pitch or 88  \nthe rest of the square\n26.2  Practice on the outfield 88\n26.3  Trial run-up 89\n26.4  Penalties for contravention 89\nLAW 27  THE WICKET-KEEPER\n27.1  Protective equipment 90\n27.2  Gloves 90\n27.3  Position of wicket-keeper 91\n27.4  Movement by wicket-keeper 91\n27.5  Restriction on actions 92   \nof wicket-keeper\n27.6  Interference with 93",
+        "metadata": {
+          "page": 86,
+          "moddate": "2026-02-03T09:04:05+00:00",
+          "creationdate": "2026-02-03T09:04:03+00:00",
+          "total_pages": 90,
+          "page_label": "87",
+          "source": "laws/Laws Of cricket.pdf",
+          "creator": "Adobe InDesign 21.0 (Macintosh)",
+          "trapped": "/False",
+          "producer": "Adobe PDF Library 18.0"
+        }
+      },
+      {
+        "content": "LAW 16 THE RESULT\n16.1  A Win – two-innings match\nThe side which has scored a total of runs in excess of that \nscored in the two completed innings of the opposing side \nshall win the match. See Law 13.3 (Completed innings).  \nNote also 16.6.",
+        "metadata": {
+          "source": "laws/Laws Of cricket.pdf",
+          "page_label": "23",
+          "moddate": "2026-02-03T09:04:05+00:00",
+          "total_pages": 90,
+          "creator": "Adobe InDesign 21.0 (Macintosh)",
+          "creationdate": "2026-02-03T09:04:03+00:00",
+          "producer": "Adobe PDF Library 18.0",
+          "page": 22,
+          "trapped": "/False"
+        }
+      },
+      {
+        "content": "168 169\n5.6  Contact with the ball 22\n5.7  Bat size limits 22\n5.8  Categories of bat 23\nLAW 6   THE PITCH\n6.1  Area of pitch 24\n6.2  Fitness of pitch for play 24\n6.3  Selection and preparation 24\n6.4  Changing the pitch 24\n6.5  Non-turf pitches 25\n6.6  Junior Cricket 25\nLAW 7   THE CREASES\n7.1  The creases 25\n7.2  The bowling crease 25\n7.3  The popping crease 25\n7.4  The return creases 26\nLAW 8   THE WICKETS\n8.1  Description, width and positioning 26\n8.2  Size of stumps 26\n8.3  The bails 26\n8.4  Junior cricket 27\n8.5  Dispensing with bails 28\nLAW 9   PREPARATION AND  \nMAINTENANCE OF THE  \nPLAYING AREA\n9.1  Rolling 27\n9.2  Clearing debris from the pitch 28\n9.3  Mowing 29\n9.4  Watering the pitch 30\n9.5  Re-marking creases 30\n9.6  Maintenance of footholes 30\n9.7  Securing of footholds and 31 \nmaintenance of pitch\n9.8  Non-turf pitches 31\nLAW 10  COVERING THE PITCH\n10.1  Before the match 31\n10.2  During the match 31\n10.3  Removal of covers 32\nLAW 11  INTERVALS\n11.1  An interval 32",
+        "metadata": {
+          "creationdate": "2026-02-03T09:04:03+00:00",
+          "creator": "Adobe InDesign 21.0 (Macintosh)",
+          "page_label": "85",
+          "total_pages": 90,
+          "source": "laws/Laws Of cricket.pdf",
+          "page": 84,
+          "producer": "Adobe PDF Library 18.0",
+          "trapped": "/False",
+          "moddate": "2026-02-03T09:04:05+00:00"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "direct",
+    "question": "What are the dimensions of the cricket pitch?",
+    "expected_answer": "The pitch is 22 yards (20.12 m) long and 10 ft (3.05 m) wide.",
+    "key_facts": [
+      "22 yards",
+      "20.12 metres",
+      "10 feet",
+      "3.05 metres"
+    ],
+    "generated_answer": null,
+    "retrieved_context": [],
+    "error": "Error calling model 'gemini-3.6-flash' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 10.105481811s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.6-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '10s'}]}}"
+  },
+  {
+    "id": 3,
+    "type": "direct",
+    "question": "What is the maximum overall length of a cricket bat?",
+    "expected_answer": "The overall length of the bat must not be more than 38 inches (96.52 cm).",
+    "key_facts": [
+      "38 inches maximum",
+      "96.52 cm maximum"
+    ],
+    "generated_answer": null,
+    "retrieved_context": [],
+    "error": "Error calling model 'gemini-3.6-flash' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 34.950563702s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.6-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '34s'}]}}"
+  },
+  {
+    "id": 4,
+    "type": "direct",
+    "question": "How long is the interval between innings?",
+    "expected_answer": "The interval between innings is 10 minutes, starting from the close of an innings until the call of Play for the next innings, subject to the exceptions in the Laws.",
+    "key_facts": [
+      "10 minutes",
+      "Starts at close of innings",
+      "Exceptions are provided in the Laws"
+    ],
+    "generated_answer": null,
+    "retrieved_context": [],
+    "error": "Error calling model 'gemini-3.6-flash' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 58.895210593s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '58s'}]}}"
+  },
+  {
+    "id": 5,
+    "type": "direct",
+    "question": "What is the penalty for a No ball?",
+    "expected_answer": "One run is awarded instantly when No ball is called. The penalty is scored as a No ball extra and is in addition to other runs or applicable penalties.",
+    "key_facts": [
+      "One-run penalty",
+      "Scored as No ball extra",
+      "Additional to other runs"
+    ],
+    "generated_answer": null,
+    "retrieved_context": [],
+    "error": "Error calling model 'gemini-3.6-flash' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 23.313289505s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '23s'}]}}"
+  },
+  {
+    "id": 6,
+    "type": "multi_law",
+    "question": "A batter is dismissed Caught from a delivery and the batters had completed runs before the catch was completed. Are those completed runs scored, and what happens to penalty runs?",
+    "expected_answer": "The completed runs from that delivery are not scored, but penalty runs awarded to either side stand. The non-striker returns to their original end.",
+    "key_facts": [
+      "Caught dismissal",
+      "Completed runs are not scored",
+      "Penalty runs stand",
+      "Non-striker returns to original end"
+    ],
+    "generated_answer": null,
+    "retrieved_context": [],
+    "error": "Error calling model 'gemini-3.6-flash' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 48.69069152s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}}"
+  },
+  {
+    "id": 7,
+    "type": "multi_law",
+    "question": "A No ball is called and the striker's wicket is broken. Can the striker be out Bowled?",
+    "expected_answer": "No. A batter cannot be out Bowled from a No ball. When No ball has been called, the batter can only be dismissed under Hit the ball twice, Obstructing the field, or Run out.",
+    "key_facts": [
+      "No ball cannot result in Bowled",
+      "Possible dismissals include Hit the ball twice",
+      "Obstructing the field",
+      "Run out"
+    ],
+    "generated_answer": null,
+    "retrieved_context": [],
+    "error": "Error calling model 'gemini-3.6-flash' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 12.714688707s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12s'}]}}"
+  },
+  {
+    "id": 8,
+    "type": "multi_law",
+    "question": "A striker is outside their ground and a wicket-keeper breaks the wicket from a No ball while the striker is not attempting a run. Is the striker out Run out?",
+    "expected_answer": "No. The striker is not out Run out when No ball has been called, the striker is out of their ground without attempting a run, and the wicket is broken by the wicket-keeper without intervention from another fielder.",
+    "key_facts": [
+      "No ball",
+      "Striker out of ground",
+      "No run attempted",
+      "Wicket broken by wicket-keeper",
+      "Not out Run out"
+    ],
+    "generated_answer": null,
+    "retrieved_context": [],
+    "error": "Error calling model 'gemini-3.6-flash' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 37.641613051s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.6-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '37s'}]}}"
+  },
+  {
+    "id": 9,
+    "type": "no_answer",
+    "question": "According to the Laws of Cricket, what is the monthly salary of an international cricket umpire?",
+    "expected_answer": "The provided Laws of Cricket document does not provide information about the salaries of international cricket umpires. The system should say that the information is not available in the provided document rather than inventing a figure.",
+    "key_facts": [
+      "Salary information is not provided",
+      "Should not hallucinate a salary"
+    ],
+    "generated_answer": null,
+    "retrieved_context": [],
+    "error": "Error calling model 'gemini-3.6-flash' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 1.25757391s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '1s'}]}}"
+  },
+  {
+    "id": 10,
+    "type": "no_answer",
+    "question": "What was the exact score of the 2025 ICC Champions Trophy final?",
+    "expected_answer": "The provided Laws of Cricket document does not contain match results or the score of the 2025 ICC Champions Trophy final. The system should state that the answer is not available in the provided document.",
+    "key_facts": [
+      "No match score is provided",
+      "Should refuse to invent the result"
+    ],
+    "generated_answer": null,
+    "retrieved_context": [],
+    "error": "Error calling model 'gemini-3.6-flash' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 25.578559587s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '25s'}]}}"
+  },
+  {
+    "id": 11,
+    "type": "no_answer",
+    "question": "Which team will win the next Cricket World Cup?",
+    "expected_answer": "The Laws of Cricket document cannot predict future tournament winners. The system should state that this information is not available rather than making a prediction as if it were a fact.",
+    "key_facts": [
+      "Future winner is not in the document",
+      "Should not present a prediction as a factual answer"
+    ],
+    "generated_answer": null,
+    "retrieved_context": [],
+    "error": "Error calling model 'gemini-3.6-flash' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 50.188273667s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50s'}]}}"
+  },
+  {
+    "id": 12,
+    "type": "edge_case",
+    "question": "If a striker deliberately strikes the ball a second time before a fielder touches it, are they always out Hit the ball twice?",
+    "expected_answer": "Not always. The striker is out Hit the ball twice if the second strike is wilful, but they may lawfully strike the ball more than once solely to guard their wicket, subject to the restrictions in Law 34.",
+    "key_facts": [
+      "Wilful second strike can cause dismissal",
+      "Second strike to guard wicket can be lawful",
+      "Cannot use repeated strikes to prevent a catch"
+    ],
+    "generated_answer": null,
+    "retrieved_context": [],
+    "error": "Error calling model 'gemini-3.6-flash' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 13.462807661s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.6-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '13s'}]}}"
+  },
+  {
+    "id": 13,
+    "type": "edge_case",
+    "question": "If a fielder catches the ball after it touches the wicket or another fielder, can the catch still be fair?",
+    "expected_answer": "Yes. The Laws specifically provide that a catch can be fair if a fielder catches the ball after it has touched the wicket, an umpire, another fielder, a runner, or the other batter, provided the other conditions for a fair catch are satisfied.",
+    "key_facts": [
+      "Catch can follow contact with wicket",
+      "Catch can follow contact with another fielder",
+      "Other fair-catch conditions still apply"
+    ],
+    "generated_answer": null,
+    "retrieved_context": [],
+    "error": "Error calling model 'gemini-3.6-flash' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 36.567810477s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '36s'}]}}"
+  },
+  {
+    "id": 14,
+    "type": "edge_case",
+    "question": "Can a batter be Stumped from a No ball?",
+    "expected_answer": "No. Law 39 requires the delivery not to be called No ball for a Stumping dismissal.",
+    "key_facts": [
+      "Stumping requires delivery not to be a No ball",
+      "Striker must be out of ground",
+      "Striker must not have attempted a run"
+    ],
+    "generated_answer": null,
+    "retrieved_context": [],
+    "error": "Error calling model 'gemini-3.6-flash' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 1.066726673s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '1s'}]}}"
+  },
+  {
+    "id": 15,
+    "type": "edge_case",
+    "question": "How long does an incoming batter have to be ready after a wicket falls before being out Timed out?",
+    "expected_answer": "The incoming batter must be ready to receive the ball, or for the other batter to be ready to receive the next ball, within 3 minutes of the dismissal or retirement, unless Time has been called. Otherwise the incoming batter is out Timed out.",
+    "key_facts": [
+      "Three minutes",
+      "Applies after dismissal or retirement",
+      "Incoming batter must be ready",
+      "Failure results in Timed out"
+    ],
+    "generated_answer": null,
+    "retrieved_context": [],
+    "error": "Error calling model 'gemini-3.6-flash' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 24.098341547s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '24s'}]}}"
+  }
+]

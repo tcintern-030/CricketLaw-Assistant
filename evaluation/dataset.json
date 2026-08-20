@@ -1,0 +1,169 @@
+[
+  {
+    "id": 1,
+    "type": "direct",
+    "question": "How many players are there in each side in a cricket match under the Laws?",
+    "expected_answer": "A match is played between two sides, each of eleven players, one of whom is the captain. By agreement, fewer or more than eleven players may be nominated, but no more than eleven may field at any time.",
+    "key_facts": [
+      "Each side has eleven players",
+      "One player is captain",
+      "No more than eleven may field at one time"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "direct",
+    "question": "What are the dimensions of the cricket pitch?",
+    "expected_answer": "The pitch is 22 yards (20.12 m) long and 10 ft (3.05 m) wide.",
+    "key_facts": [
+      "22 yards",
+      "20.12 metres",
+      "10 feet",
+      "3.05 metres"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "direct",
+    "question": "What is the maximum overall length of a cricket bat?",
+    "expected_answer": "The overall length of the bat must not be more than 38 inches (96.52 cm).",
+    "key_facts": [
+      "38 inches maximum",
+      "96.52 cm maximum"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "direct",
+    "question": "How long is the interval between innings?",
+    "expected_answer": "The interval between innings is 10 minutes, starting from the close of an innings until the call of Play for the next innings, subject to the exceptions in the Laws.",
+    "key_facts": [
+      "10 minutes",
+      "Starts at close of innings",
+      "Exceptions are provided in the Laws"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "direct",
+    "question": "What is the penalty for a No ball?",
+    "expected_answer": "One run is awarded instantly when No ball is called. The penalty is scored as a No ball extra and is in addition to other runs or applicable penalties.",
+    "key_facts": [
+      "One-run penalty",
+      "Scored as No ball extra",
+      "Additional to other runs"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "multi_law",
+    "question": "A batter is dismissed Caught from a delivery and the batters had completed runs before the catch was completed. Are those completed runs scored, and what happens to penalty runs?",
+    "expected_answer": "The completed runs from that delivery are not scored, but penalty runs awarded to either side stand. The non-striker returns to their original end.",
+    "key_facts": [
+      "Caught dismissal",
+      "Completed runs are not scored",
+      "Penalty runs stand",
+      "Non-striker returns to original end"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "multi_law",
+    "question": "A No ball is called and the striker's wicket is broken. Can the striker be out Bowled?",
+    "expected_answer": "No. A batter cannot be out Bowled from a No ball. When No ball has been called, the batter can only be dismissed under Hit the ball twice, Obstructing the field, or Run out.",
+    "key_facts": [
+      "No ball cannot result in Bowled",
+      "Possible dismissals include Hit the ball twice",
+      "Obstructing the field",
+      "Run out"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "multi_law",
+    "question": "A striker is outside their ground and a wicket-keeper breaks the wicket from a No ball while the striker is not attempting a run. Is the striker out Run out?",
+    "expected_answer": "No. The striker is not out Run out when No ball has been called, the striker is out of their ground without attempting a run, and the wicket is broken by the wicket-keeper without intervention from another fielder.",
+    "key_facts": [
+      "No ball",
+      "Striker out of ground",
+      "No run attempted",
+      "Wicket broken by wicket-keeper",
+      "Not out Run out"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "no_answer",
+    "question": "According to the Laws of Cricket, what is the monthly salary of an international cricket umpire?",
+    "expected_answer": "The provided Laws of Cricket document does not provide information about the salaries of international cricket umpires. The system should say that the information is not available in the provided document rather than inventing a figure.",
+    "key_facts": [
+      "Salary information is not provided",
+      "Should not hallucinate a salary"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "no_answer",
+    "question": "What was the exact score of the 2025 ICC Champions Trophy final?",
+    "expected_answer": "The provided Laws of Cricket document does not contain match results or the score of the 2025 ICC Champions Trophy final. The system should state that the answer is not available in the provided document.",
+    "key_facts": [
+      "No match score is provided",
+      "Should refuse to invent the result"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "no_answer",
+    "question": "Which team will win the next Cricket World Cup?",
+    "expected_answer": "The Laws of Cricket document cannot predict future tournament winners. The system should state that this information is not available rather than making a prediction as if it were a fact.",
+    "key_facts": [
+      "Future winner is not in the document",
+      "Should not present a prediction as a factual answer"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "edge_case",
+    "question": "If a striker deliberately strikes the ball a second time before a fielder touches it, are they always out Hit the ball twice?",
+    "expected_answer": "Not always. The striker is out Hit the ball twice if the second strike is wilful, but they may lawfully strike the ball more than once solely to guard their wicket, subject to the restrictions in Law 34.",
+    "key_facts": [
+      "Wilful second strike can cause dismissal",
+      "Second strike to guard wicket can be lawful",
+      "Cannot use repeated strikes to prevent a catch"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "edge_case",
+    "question": "If a fielder catches the ball after it touches the wicket or another fielder, can the catch still be fair?",
+    "expected_answer": "Yes. The Laws specifically provide that a catch can be fair if a fielder catches the ball after it has touched the wicket, an umpire, another fielder, a runner, or the other batter, provided the other conditions for a fair catch are satisfied.",
+    "key_facts": [
+      "Catch can follow contact with wicket",
+      "Catch can follow contact with another fielder",
+      "Other fair-catch conditions still apply"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "edge_case",
+    "question": "Can a batter be Stumped from a No ball?",
+    "expected_answer": "No. Law 39 requires the delivery not to be called No ball for a Stumping dismissal.",
+    "key_facts": [
+      "Stumping requires delivery not to be a No ball",
+      "Striker must be out of ground",
+      "Striker must not have attempted a run"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "edge_case",
+    "question": "How long does an incoming batter have to be ready after a wicket falls before being out Timed out?",
+    "expected_answer": "The incoming batter must be ready to receive the ball, or for the other batter to be ready to receive the next ball, within 3 minutes of the dismissal or retirement, unless Time has been called. Otherwise the incoming batter is out Timed out.",
+    "key_facts": [
+      "Three minutes",
+      "Applies after dismissal or retirement",
+      "Incoming batter must be ready",
+      "Failure results in Timed out"
+    ]
+  }
+]
