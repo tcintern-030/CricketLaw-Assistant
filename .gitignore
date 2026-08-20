@@ -1,3 +1,5 @@
 .env
 __pycache__/
 vector_db/
+vector_db/00377fb0-acb3-4a9d-8085-8b05124b16e0/length.bin
+vector_db/chroma.sqlite3
