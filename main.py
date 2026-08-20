@@ -12,7 +12,6 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_google_genai import ChatGoogleGenerativeAI
 from typer import prompt
 
-
 load_dotenv()
 
 
